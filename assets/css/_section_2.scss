@@ -1,0 +1,106 @@
+
+.col-6{width: 50%;
+    padding: 15px;
+    background-color: black;
+   
+ 
+    img{
+        width: 100%;
+        object-fit: scale-down;
+    }
+
+.h5{
+        font-size: 45px;
+    line-height: 55px;
+    color: #fff;
+    margin-top: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-align: center;
+    }
+    }
+    .p{
+        background-color: pink;
+        font-size: 20px;
+    color: white;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    }
+.container{
+   
+    max-width: 1700px;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    .row{
+     width: 100%;
+     display: flex;
+    flex-wrap: wrap;
+
+
+        
+    }}
+ .architecture{
+   
+    .h5{
+        font-size: 45px;
+    line-height: 55px;
+    color: #fff;
+    margin-top: 60px;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-align: center;
+    }
+    .archtexts{
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+    
+   
+    .button{
+        padding: 10px 20px;
+        background-color: rgb(0, 0, 0);
+        color: #fff;
+        border: 2px solid aliceblue;
+        border-radius: 4px;
+        font-size: 14px;
+        cursor: pointer;
+        margin-left: 260px;
+    }
+    .button:hover{
+        background-color: white;
+
+    }
+ }
+ @media(max-width: 968px){
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+        .col-sm-12{
+            width: 100%;
+        }  
+           
+      
+    }    
+        
+    .btn{
+       display: flex;
+
+       
+    }
+    .archtexts
+    {h5{
+        margin-bottom: 50px;
+    }
+}
+    .archtexts{
+
+        p{
+        font-size: 20px;
+        }
+    }
+      
+
+}
